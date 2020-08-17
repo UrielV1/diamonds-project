@@ -1,2 +1,2 @@
 # diamonds-project
-Forecasting diamond price
+Diamond price forecasting
