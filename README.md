@@ -1,3 +1,3 @@
 # Diamond price forecasting
 
-* Project objectives *
+**Project objectives 
