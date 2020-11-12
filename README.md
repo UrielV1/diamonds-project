@@ -8,6 +8,8 @@ The main objective of this project is to build a reliable and accurate ML model 
 - The different features describe the physical and geometrical measures of the diamonds
 - Data exploration & Data visualization were executed
 - Feature engineering & dimensionality reduction were executed as well
+- Random forest, KNN and MLP model were used and the parameters were tuned
+- The best score was R-squared = 0.98 with random forest model 
  
 
 
