@@ -1,5 +1,5 @@
 # Diamond price forecasting
-![](https://github.com/UrielV1/diamonds-project/blob/master/diamond.jpeg)
+![](https://github.com/UrielV1/diamonds-project/blob/master/diamond.jpeg=250x)
 ## Project objectives
 The main objective of this project is to build a reliable and accurate ML model to predict the price of a diamond. 
 
