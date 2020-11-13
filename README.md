@@ -1,8 +1,8 @@
 # Diamond price forecasting 
-<img src="https://github.com/UrielV1/diamonds-project/blob/master/diamond.jpeg" alt="https://github.com/UrielV1/diamonds-project/blob/master/diamond" width="380"/>
+<img src="https://github.com/UrielV1/diamonds-project/blob/master/diamond.jpeg" alt="https://github.com/UrielV1/diamonds-project/blob/master/diamond" width="500"/>
 
 ## Project objectives
-The main objective of this project is to build a reliable and accurate ML model to predict the price of a diamond. 
+The main objective of this project is to build a reliable and accurate ML model to predict the price of a diamond 
 
 ## Project description
 - A dataset of 53,940 records and 10 features is given
